@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-app/static/css/main.53bcab0a.css",
+    "main.js": "/React-app/static/js/main.19eb6e24.js",
+    "static/media/siri.png": "/React-app/static/media/siri.e6a70a555204b3a1f6f0.png",
+    "index.html": "/React-app/index.html",
+    "main.53bcab0a.css.map": "/React-app/static/css/main.53bcab0a.css.map",
+    "main.19eb6e24.js.map": "/React-app/static/js/main.19eb6e24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53bcab0a.css",
+    "static/js/main.19eb6e24.js"
+  ]
+}
